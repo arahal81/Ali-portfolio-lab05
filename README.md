@@ -1,4 +1,4 @@
-My protfolio: [protfolio](ttps://ali-protfolio.netlify.app/)
+My protfolio: https://ali-protfolio.netlify.app/
 
 A question within the context of today’s lab assignment.
  Feature #1: Workflow
