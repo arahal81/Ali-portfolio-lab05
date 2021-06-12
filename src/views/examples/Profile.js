@@ -142,7 +142,7 @@ class Profile extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          Software Developer have passion to lern more and more.
+                          Software Developer have passion to learn more and more.
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
