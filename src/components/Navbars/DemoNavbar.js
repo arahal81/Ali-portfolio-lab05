@@ -149,6 +149,22 @@ class DemoNavbar extends React.Component {
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"
+                      href="https://www.linkedin.com/in/ali-rahhal-b806a0125/"
+                      id="tooltip333589074"
+                      target="_blank"
+                    >
+                      <i className="fa fa-linkedin-square" />
+                      <span className="nav-link-inner--text d-lg-none ml-2">
+                        Facebook
+                      </span>
+                    </NavLink>
+                    <UncontrolledTooltip delay={0} target="tooltip333589074">
+                    Follow us  on Linkedin
+                    </UncontrolledTooltip>
+                  </NavItem>
+                  <NavItem>
+                    <NavLink
+                      className="nav-link-icon"
                       href="https://www.instagram.com/ali.rahhal.58/"
                       id="tooltip356693867"
                       target="_blank"
